@@ -1,6 +1,6 @@
-# Qubes OS dom0 CDE Themes
+# Qubes OS dom0 CDE Themes & XFCE Customization
 
-Authentic CDE (Common Desktop Environment) themes for Qubes OS dom0 running XFCE4. Uses the original Motif color calculation algorithms to generate pixel-perfect CDE color schemes for GTK2, GTK3, and GTK4.
+Authentic CDE (Common Desktop Environment) themes for Qubes OS dom0 running XFCE4, plus XFCE genmon panel scripts. Uses the original Motif color calculation algorithms to generate pixel-perfect CDE color schemes for GTK2, GTK3, and GTK4.
 
 ## What's Included
 
@@ -8,6 +8,7 @@ Authentic CDE (Common Desktop Environment) themes for Qubes OS dom0 running XFCE
 - **CDE-Theme** base XFCE4 theme with Motif-style widgets, window borders, and 3D bevels
 - **Chicago95** cursors and icon sets
 - **CDE backdrops** for workspace backgrounds
+- **Genmon scripts** for XFCE panel (memory monitor via xenstore)
 - **Retro fonts** (Cronyx Cyrillic)
 
 ## Quick Start
